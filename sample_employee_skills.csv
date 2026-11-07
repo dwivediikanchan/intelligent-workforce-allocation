@@ -1,0 +1,13 @@
+employee_id,skill_name,proficiency_level,verification_status
+E201,Welding,5,Verified
+E201,Assembly,4,Verified
+E202,Assembly,5,Verified
+E202,Testing,4,Pending
+E203,Inspection,5,Verified
+E203,Testing,4,Pending
+E204,Welding,3,Pending
+E204,Assembly,4,Pending
+E205,Welding,5,Verified
+E205,Testing,4,Verified
+E206,Welding,4,Verified
+E206,Assembly,4,Verified

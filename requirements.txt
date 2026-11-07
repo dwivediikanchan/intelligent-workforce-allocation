@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+psycopg[binary]
+plotly
+matplotlib
+seaborn
+scikit-learn
+openpyxl

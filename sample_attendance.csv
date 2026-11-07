@@ -1,0 +1,7 @@
+employee_id,attendance_date,shift,attendance_status,check_in,check_out
+E201,2026-11-06,Morning,Present,08:00,17:00
+E202,2026-11-06,Evening,Present,16:00,01:00
+E203,2026-11-06,Morning,Present,08:00,17:00
+E204,2026-11-06,Night,Present,22:00,06:00
+E205,2026-11-06,Evening,Leave,,
+E206,2026-11-06,Morning,Present,08:00,17:00

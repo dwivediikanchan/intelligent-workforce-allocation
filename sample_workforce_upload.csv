@@ -1,0 +1,7 @@
+﻿employee_id,employee_name,experience_years,shift,status
+E201,Arjun,4,Morning,Active
+E202,Meera,2,Evening,Active
+E203,Rahul,6,Morning,Active
+E204,Priya,3,Night,Active
+E205,Kiran,1,Evening,Inactive
+E206,Sneha,5,Morning,Active
